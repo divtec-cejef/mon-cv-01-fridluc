@@ -1,9 +1,18 @@
 body {
   background-color: black;
 }
-ul{
+ul {
   color: white;
 }
 h1 {
   color: lightgoldenrodyellow;
+}
+h2 {
+  color: beige;
+}
+p {
+  color: white;
+}
+footer {
+  color: aqua;
 }
