@@ -1,13 +1,40 @@
 body {
+  /*Couleur de fond, alignement du texte et les marges*/
   background-color: black;
+  max-width: 525px;
+  margin-left: auto;
+  margin-right: auto;
+
+  /*Police général, image de fond pas répéter bordure et ombre*/
+  font-family: Roboto;
+  background-image: url("https://www.formula1.com/content/dam/fom-website/manual/Misc/2021manual/2022-car-with-2021-liveries/F1_2022_RedBull_i5_3_4_Right.jpg.transform/9col/image.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-width: 10px;
+  border-style: solid;
+  box-shadow: 30px 30px 100px rgba(0, 0, 0);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+header {
+  text-align: center;
 }
 ul {
+  text-align: left;
   color: white;
 }
 h1 {
+  text-align: center;
+  font-weight: 700;
+  font-family: Roboto;
   color: lightgoldenrodyellow;
+  font-size: 2em;
 }
 h2 {
+  font-family: Roboto;
   color: beige;
 }
 p {

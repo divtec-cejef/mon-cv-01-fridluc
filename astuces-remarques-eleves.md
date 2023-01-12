@@ -7,20 +7,20 @@ Bonne lecture, Steve.
 * Organiser votre site avec des dossiers (`css/`, `fonts/`, `img/`, ... )
  ```
 racine-de-mon-site
-  │  
+  │
   └─── css
   │     └─ main.css
-  │ 
+  │
   └─── fonts
   │     └─ arial.eot
   │     └─ arial.svg
   │     └─ arial.ttf
   │     └─ arial.woff
-  │ 
+  │
   └─── img
   │     └─ logo.svg
-  │     └─ photo-plage.jpg  
-  │ 
+  │     └─ photo-plage.jpg
+  │
   └─ favicon.ico
   └─ index.html
  ```
@@ -33,8 +33,8 @@ racine-de-mon-site
   Le titre doit être composé des mêmes mots-clé que le titre principal du site `<h1>`, suivi du nom de votre site.
 ```html
 <title>Tout l’assortiment de jouets | Migros</title>
-```` 
-* Il manque `viewport` obligatoire pour un bon affichage sur smartphone 
+````
+* Il manque `viewport` obligatoire pour un bon affichage sur smartphone
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
@@ -57,8 +57,8 @@ racine-de-mon-site
   * Utiliser le CSS avec `padding` ou `margin` pour créer des marges et espacer les éléments.
 * Ne pas oublier de préciser le texte alternatif des images avec l'attribut `alt=""`
 ```html
-    <img src="img/fifty-burgers.png" alt="Logo Fifty Burgers"/>
-```` 
+ <!-- <img src="img/fifty-burgers.png" alt="Logo Fifty Burgers"/> -->
+````
 * Éviter de donner des tailles aux images en HTML, le faire en CSS avec `height` et `width`
 * Toujours **terminer** vos fichiers de code (HTML, CSS, JavaScript, ...) par une **nouvelle ligne vide** pour simplifier les traitements automatisés.
 * Valider votre code : https://validator.w3.org/nu/
@@ -87,7 +87,7 @@ h2 {
 h3 {
     color:blue;
 }
-```  
+```
 * Mettre les accolade sur la même ligne que le sélecteur
 ```
 /* Faux */
@@ -106,7 +106,7 @@ h1 {
 ```
 * Revenir à la ligne après la `,` si plusieurs sélecteurs
 ```
-/* Faux */ 
+/* Faux */
 h1, h2, h3 {
     color:red;
 }
