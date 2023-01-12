@@ -6,7 +6,7 @@ body {
   margin-right: auto;
 
   /*Police général, image de fond pas répéter bordure et ombre*/
-  font-family: Roboto;
+  font-family: fonts;
   background-image: url("https://www.formula1.com/content/dam/fom-website/manual/Misc/2021manual/2022-car-with-2021-liveries/F1_2022_RedBull_i5_3_4_Right.jpg.transform/9col/image.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
@@ -28,8 +28,8 @@ ul {
 }
 h1 {
   text-align: center;
-  font-weight: 700;
-  font-family: Roboto;
+  font-weight: 900;
+  font-family: Arial;
   color: lightgoldenrodyellow;
   font-size: 2em;
 }
