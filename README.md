@@ -14,7 +14,8 @@ de votre parcours professionnel. Cependant, pour que votre CV attire l’œil de
 
 Pour cela, vous allez devoir **enrichir votre page HTML avec du .CSS**.
 
-**Avant de commencer**, réaliser les 7 chapitres de la [Partie 2 - Mettez en place le CSS ](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1605060-mettez-en-place-le-css)
+**Avant de commencer**, réaliser les 7 chapitres de
+la [Partie 2 - Mettez en place le CSS ](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1605060-mettez-en-place-le-css)
 , le 7e étant cet exercice 😀
 
 [![](images/oc-partie-2.png)](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1605060-mettez-en-place-le-css)
@@ -41,8 +42,7 @@ Pour cela, vous allez devoir **enrichir votre page HTML avec du .CSS**.
 ✅ La bordure d’un élément est définie.
 ✅ L’ombre d’un élément est définie.
 
-
-
 ## Exemples de solutions
+
 * https://divtec-cejef.github.io/101-SFA-HTML-CV-02/
 * https://static.oc-static.com/activities/199/evaluation_resources/mettez-en-forme-votre-cv_exemple-2019-01-03T082017.zip
